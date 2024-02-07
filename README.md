@@ -83,13 +83,6 @@
                         iNewsNow é um app que tenho bastante orgulho! Seu propósito é informar as principais notícias do mundo e as mais populares, seus dados são obtidos através da API pública do The New York Time.
                     </td>
                 </tr>
-                <tr>
-                    <td>
-                        <a href="https://apps.apple.com/br/app/hortali/id6443548466">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
             </table>
          </td>
         <!-- Inkolors -->
