@@ -176,3 +176,8 @@
     <img  src="https://cdn.discordapp.com/attachments/1205180002619101236/1205180042993205279/PersonagemAnimadoGif.gif">
 </div>
 <img align="right" alt="Pedro-Anime" src="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/main/images/_gifs/PersonagemPedroAnimadoGif.gif" width="250px">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/output/github-contribution-grid-snake.svg">
+</picture>
