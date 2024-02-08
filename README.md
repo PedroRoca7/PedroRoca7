@@ -175,9 +175,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroroca7&layout=compact&langs_count=16&theme=radical"/>
     <img  src="https://cdn.discordapp.com/attachments/1205180002619101236/1205180042993205279/PersonagemAnimadoGif.gif">
 </div>
-<img align="right" alt="Pedro-Anime" src="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/main/images/_gifs/PersonagemPedroAnimadoGif.gif" width="250px">
+<img align="center" alt="Pedro-Anime" src="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/main/images/_gifs/PersonagemPedroAnimadoGif.gif" width="250px">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/output/github-contribution-grid-snake.svg">
 </picture>
+</br>
+<p align="center"> <img align="center" src="htpps://pofile-counter.glitch.me/pedroroca7/count.svg>"/></p>
