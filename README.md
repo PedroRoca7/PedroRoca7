@@ -169,3 +169,10 @@
         </td>
     </tr>
 </table>
+<div>
+    <a href="https://github.com/PedroRoca7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroroca7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroroca7&layout=compact&langs_count=16&theme=radical"/>
+    <img  src="https://cdn.discordapp.com/attachments/1205180002619101236/1205180042993205279/PersonagemAnimadoGif.gif">
+</div>
+<img align="right" alt="Pedro-Anime" src="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/main/images/_gifs/PersonagemPedroAnimadoGif.gif" width="250px">
