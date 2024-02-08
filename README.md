@@ -85,240 +85,87 @@
                 </tr>
             </table>
          </td>
-        <!-- Inkolors -->
-<!--  
+        <!-- Pokédex -->
       <td>
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Inkolors">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png" alt="Logo app Inkolors"/>
+                        <a href="https://github.com/PedroRoca7/Pokedex">
+                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo Pokedex-Arredondado.png" height=85 alt="Logo app Pokedex"/>
                         </a>
-                        <p><b>Inkolors</b></p>
+                        <p><b>Pokédex</b></p>
                     </td>
                     <td rowspan="2" width=400 valign="top">
-                        Inkolors foi meu primeiro app iOS. Ele é um jogo simples com o tema de: Teoria da Cores. O objetivo dele é identificar quais são as cores primárias, secundárias e terciárias. Assim, precisa colocar as cores no local certo, entendendo qual é a cor resultante.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
-                        </a>
+                        Pokédex foi um aplicativo que fiz somente com intuito de aprrender e praticar SwiftUI.
                     </td>
                 </tr>
             </table>
         </td>
-        <!-- Ball Runner 
+        <!-- AppBank  -->
         <td>
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Ball-Runner">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Ball_Runner-Logo.png"  alt="Logo app Ball Runner"/>
+                        <a href="https://github.com/PedroRoca7/AppBank">
+                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo AppBank-Arredondado.png" height=85  alt="Logo app AppBank"/>
                         </a>
-                        <p><b>Ball Runner</b></p>
+                        <p><b>AppBank</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        Ball Runner foi o primeiro app que eu fiz sozinho. Ele foi baseado em um jogo que eu sempre gostei mas que só tinha pra Android. O objetivo é você fugir das bolinhas vermelhas. Quanto mais resistor maior é a sua pontuação.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://apps.apple.com/br/app/ball-runner/id1579613903">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
-                        </a>
+                        AppBank foi um aplicativo que fiz para simular um aplicativo bancario, nele o usuario simula transações via pix e também pode olhar seu extrato.
                     </td>
                 </tr>
             </table>
         </td>
-        <!-- Coverless 
-        <td>
-            <table>
-                <tr>
-                    <td align="center">
-                        <a href="https://github.com/Gui25Reis/Coverless">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png" alt="Logo app Coverless"/>
-                        </a>
-                        <p><b>Coverless</b></p>
-                    </td>
-                    <td rowspan="2" width = 400 valign="top">
-                        Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <!-- Datas em Dias 
-        <td>
-            <table>
-                <tr>
-                    <td align="center">
-                        <a href="https://github.com/Gui25Reis/Diferenca-em-dias">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Diferenca_Dias-Logo.png"  alt="Logo do app Datas em Dias"/>
-                        </a>
-                        <p><b>Datas em Dias</b></p>
-                    </td>
-                    <td rowspan="2" width = 400 valign="top">
-                        Essa aplicação desktop foi um projeto com o objetivo de juntar todo o conhecimento que eu tinha adquirido, aprofundamento nas boas práticas, aplicação desktop com UI, POO, PyQT, documentação... O propósito dele é pegar o intervalo em dias entre duas datas.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/Gui25Reis/Diferenca-em-dias/releases/download/1.0.0/_executavel_.1.0.rar">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <!-- Kaos Bot 
-        <td>
-            <table>
-                <tr>
-                    <td align="center">
-                        <a href="https://github.com/giangamberi/KaOS_Bot">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo do Kaos Bot"/>
-                        </a>
-                        <p><b>Kaos Bot</b></p>
-                    </td>
-                    <td rowspan="2" width = 400 valign="top">
-                        Primeiro bot que eu trabalhei. Esse foi um bot para discord criado durante a pandemia juntos com os amigos de faculdade para causar nos servers rs. Ta ai o nome: caos.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/giangamberi/KaOS_Bot/releases/tag/v2.0">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <!-- >>>>>>>>>>>>>>>>>>>> Linha 02 <<<<<<<<<<<<<<<<<<<<<< 
+    <!-- >>>>>>>>>>>>>>>>>>>> Linha 02 <<<<<<<<<<<<<<<<<<<<<< --> 
     <tr>
-        <!-- The Midway 
+        <!-- QuizMarvel -->
         <td>
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/The-Midway/TheMidway-App">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/>
+                        <a href="https://github.com/PedroRoca7/QuizMarvel">
+                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo QuizMarvel-Arredondado.png" height=85  alt="Logo app QuizMarvel"/>
                         </a>
-                        <p><b>The Midway</b></p>
+                        <p><b>Quiz Marvel</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        The Midway foi o primeiro app que eu fiquei animado por conta da ideia: um app que acha o ponto médio no mapa a partir dos endereços que você colocou. Assim você consegue saber a metade do caminho para poder sair com os sues amigos.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://apps.apple.com/br/app/the-midway/id1599585926">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
-                        </a>
+                        Quiz Marvel foi um dos primeiros app que fiz literalmente sozinho, quando ocorria alguma duvida, buscava soluções na internet como por exemplo no Stack Overflow ou Youtube.
                     </td>
                 </tr>
             </table>
         </td>
-        <!-- Catch Fly 
+        <!-- Plano de Estudos --> 
         <td>
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/rebeccamello/Catch-Fly">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/CatchFly-Logo.png"  alt="Logo app Catch Fly"/>
+                        <a href="https://github.com/PedroRoca7/PlanoDeEstudos">
+                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo PlanoDeEstudos-Arredondado.png"  height=85 alt="Logo app Plano de Estudos"/>
                         </a>
-                        <p><b>Catch Fly</b></p>
+                        <p><b>Plano de Estudos</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        Catch Fly é um jogo completinho hypercasual. Na implementação tive o foco nos sons e Game Center principalmente. Porém nesse projeto eu foquei mais no GDD, a documentação de jogos. Foi dele inclusive que eu tirei o template para os meus readmes.
+                        Plano de Estudos é um app feito para você não se esquecer seus estudos, nele você cadastra as matérias que deseja estudar e o horário, quando der o horário o app envia uma notificação te avisando.
                     </td> 
                 </tr>
-                <tr>
-                    <td>
-                        <a href="https://apps.apple.com/us/app/catch-fly-the-escape/id1615619928">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
             </table>
         </td>
-        <!-- Caminholas 
+        <!-- Heróis Marvel -->
         <td>
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Drink-Game">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/>
+                        <a href="https://github.com/PedroRoca7/HeroisMarvel">
+                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo HeroisMarvel-Arredondado.png"  height=85 alt="Logo app Heróis Marvel"/>
                         </a>
-                        <p><b>Caminholas</b></p>
+                        <p><b>Heróis Marvel</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        Meu primeiro app fora da Apple Academy. Um jogo de bebida. Esse app foi inspirado nos rolês que eu tive com os meus amigos. Sempre jogávamos esse jogo, mas no bloco de notas. Infelizmente a Apple não aceita esse app :/
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://kings-gui.notion.site/Caminholas-88a8027d54594057ab3d6867bf906cf1?pvs=4">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Testflight-Pt.png" height=40/>
-                        </a>
+                        Heróis Marvel foi um app feito durante um curso na Udemy, ele busca dados sobre os Heróis da Marvel através de uma api disponibilizada pela MarvelComics.
                     </td>
                 </tr>
             </table>
         </td>
-        <!-- Maria Cacau 
-        <td>
-            <table>
-                <tr>
-                    <td align="center">
-                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Maria_Cacau-Logo.png"  alt="Logo da Maria Cacau"/>
-                        </a>
-                        <p><b>Maria Cacau</b></p>
-                    </td>
-                    <td rowspan="2" width = 400 valign="top">
-                        Esse foi um dos primeiros softwares que a cada nova versão gerada foi uma evolução minha na programação. Esse é um programa desktop para a empresa Maria Cacau que a ajuda a criar com um resumo dos pedidos que precisam ser feitos no período selecionado e os tipos de entregas.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <!-- Base Convertor 
-        <td>
-            <table>
-                <tr>
-                    <td align="center">
-                        <a href="https://github.com/Gui25Reis/Mudanca-de-base">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Mudanca_Base-Logo.png"  alt="Logo do app Mudança de Base"/>
-                        </a>
-                        <p><b>Base Convertor</b></p>
-                    </td>
-                    <td rowspan="2" width = 400 valign="top">
-                        Essa foi a primeira aplicação que eu fiz com interface gráfica. O app faz a conversão de bases de números inteiros. Esse assunto foi um dos primeiros que eu aprendi na computação. Foi muito interessante ver a evolução que ele teve!
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://github.com/Gui25Reis/Mudanca-de-base/blob/main/arquivos/_executavel_%5B1.1.0%5D.rar">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-      -->
     </tr>
 </table>
