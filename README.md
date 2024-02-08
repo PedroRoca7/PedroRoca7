@@ -181,5 +181,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRoca7/PedroRoca7/output/github-contribution-grid-snake.svg">
 </picture>
-</br>
-<p align="center"> <img align="center" src="htpps://pofile-counter.glitch.me/pedroroca7/count.svg>"/></p>
