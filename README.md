@@ -96,7 +96,7 @@
                         <p><b>Pokédex</b></p>
                     </td>
                     <td rowspan="2" width=400 valign="top">
-                        Pokédex foi um aplicativo que fiz somente com intuito de aprrender e praticar SwiftUI.
+                        Pokédex foi um aplicativo que fiz somente com intuito de aprender e praticar SwiftUI.
                     </td>
                 </tr>
             </table>
