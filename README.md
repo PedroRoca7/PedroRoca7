@@ -125,7 +125,7 @@
                 <tr>
                     <td align="center">
                         <a href="https://github.com/PedroRoca7/QuizMarvel">
-                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo QuizMarvel-Arredondado.png" height=85  alt="Logo app QuizMarvel"/>
+                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/QuizMarvelIcon.png" height=85  alt="Logo app QuizMarvel"/>
                         </a>
                         <p><b>Quiz Marvel</b></p>
                     </td>
