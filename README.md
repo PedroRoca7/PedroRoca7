@@ -85,35 +85,35 @@
                 </tr>
             </table>
          </td>
-        <!-- Pokédex -->
-      <td>
-            <table>
-                <tr>
-                    <td align="center">
-                        <a href="https://github.com/PedroRoca7/Pokedex">
-                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo Pokedex-Arredondado.png" height=85 alt="Logo app Pokedex"/>
-                        </a>
-                        <p><b>Pokédex</b></p>
-                    </td>
-                    <td rowspan="2" width=400 valign="top">
-                        Pokédex foi um aplicativo que fiz somente com intuito de aprender e praticar SwiftUI.
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <!-- AppBank  -->
+         <!-- AppBank  -->
         <td>
             <table>
                 <tr>
                     <td align="center">
                         <a href="https://github.com/PedroRoca7/AppBank">
-                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo AppBank-Arredondado.png" height=85  alt="Logo app AppBank"/>
+                            <img src="https://github.com/PedroRoca7/AppBank/blob/main/FilesImages/LogoEasyBank.png" height=85  alt="Logo app AppBank"/>
                         </a>
-                        <p><b>AppBank</b></p>
+                        <p><b>EasyBank</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        AppBank foi um aplicativo que fiz para simular um aplicativo bancario, nele o usuario simula transações via pix e também pode olhar seu extrato.
+                        EasyBank foi um aplicativo que fiz para simular um aplicativo bancario, nele o usuario simula transações via pix e também pode olhar seu extrato.
                     </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Plano de Estudos --> 
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/PedroRoca7/PlanoDeEstudos">
+                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo PlanoDeEstudos-Arredondado.png"  height=85 alt="Logo app Plano de Estudos"/>
+                        </a>
+                        <p><b>Plano de Estudos</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Plano de Estudos é um app feito para você não se esquecer seus estudos, nele você cadastra as matérias que deseja estudar e o horário, quando der o horário o app envia uma notificação te avisando.
+                    </td> 
                 </tr>
             </table>
         </td>
@@ -135,19 +135,19 @@
                 </tr>
             </table>
         </td>
-        <!-- Plano de Estudos --> 
-        <td>
-            <table>
+        <!-- Pokédex -->
+      <td>
+         <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/PedroRoca7/PlanoDeEstudos">
-                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo PlanoDeEstudos-Arredondado.png"  height=85 alt="Logo app Plano de Estudos"/>
+                        <a href="https://github.com/PedroRoca7/Pokedex">
+                            <img src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_apps/Logo Pokedex-Arredondado.png" height=85 alt="Logo app Pokedex"/>
                         </a>
-                        <p><b>Plano de Estudos</b></p>
+                        <p><b>Pokédex</b></p>
                     </td>
-                    <td rowspan="2" width = 400 valign="top">
-                        Plano de Estudos é um app feito para você não se esquecer seus estudos, nele você cadastra as matérias que deseja estudar e o horário, quando der o horário o app envia uma notificação te avisando.
-                    </td> 
+                    <td rowspan="2" width=400 valign="top">
+                        Pokédex foi um aplicativo que fiz somente com intuito de aprender e praticar SwiftUI.
+                    </td>
                 </tr>
             </table>
         </td>
