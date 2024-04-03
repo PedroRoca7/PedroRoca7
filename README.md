@@ -3,7 +3,7 @@
 <p align="center">
     Sou de São Paulo, Capital <img width="16" src="https://github.com/PedroRoca7/PedroRoca7/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil"/>.
     <br/>Formado pelo <a href="https://www.sp.senac.br/graduacao/tecnologia-em-jogos-digitais">Centro Universitário SENAC </a> & <a href="https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4/"> Udemy iOS 11 Swift 4</a>
-    <br/>Veja meu currículo <a href="https://github.com/PedroRoca7/PedroRoca7/blob/main/files/Pedro Henrique Roca Moreira  iOS Developer.pdf">PT</a>
+    <br/>Veja meu currículo <a href="https://github.com/PedroRoca7/PedroRoca7/blob/main/files/PedroHenriqueDesenvolvedoriOS.pdf">PT</a>
 </p>
 
 <!-- Redes sociais -->
